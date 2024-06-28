@@ -1,7 +1,0 @@
-numpy
-pygame
-dxfwrite
-pandas
-openpyxl
-opencv-python
-matplotlib
